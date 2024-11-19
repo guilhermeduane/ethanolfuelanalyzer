@@ -20,5 +20,5 @@ This experiment has no legal value for judicial purposes as it needs to be appro
 
  # Wiring Diagram
 
- ![Wiring Diagram](schematic.jpg)
+ ![Wiring Diagram](schematic.jpeg)
 
