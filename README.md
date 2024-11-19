@@ -21,4 +21,16 @@ This experiment has no legal value for judicial purposes as it needs to be appro
  # Wiring Diagram
 
  ![Wiring Diagram](schematic.jpeg)
+ # Notes:
+
+ Error codes between 170 Hz and 179 Hz are reserved for sensor internal failures and warrant sensor replacement.
+
+Error code 180 HZ indicates the fuel composition is outside the sensor measurement range (capacitance). This error code may suggest that free water is present in the fuel.
+- Recommended action: check/replace fuel and retest
+
+Error code 190 Hz indicates the fuel composition is outside of the sensor measurement range
+(conductivity). This error code may suggest that ionic water is present in the fuel. - Recommended action: check/replace fuel and retest
+
+Error code 171 Hz indicates the fuel composition is outside of the sensor measurement range. This error code may suggest that ionic water is present in the fuel.
+
 
