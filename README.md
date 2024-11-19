@@ -18,4 +18,7 @@ To finish, you need to multiply the result by 2 to get the value in seconds, sub
 
 This experiment has no legal value for judicial purposes as it needs to be approved by INMETRO, it is a Brazilian government agency responsible for ensuring the quality and reliability of products and services in the country.
 
-   
+ # Wiring Diagram
+
+ ![Wiring Diagram](schematic.jpg)
+
