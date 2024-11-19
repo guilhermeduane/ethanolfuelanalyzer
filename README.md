@@ -29,7 +29,8 @@ Error code 180 HZ indicates the fuel composition is outside the sensor measureme
 - Recommended action: check/replace fuel and retest
 
 Error code 190 Hz indicates the fuel composition is outside of the sensor measurement range
-(conductivity). This error code may suggest that ionic water is present in the fuel. - Recommended action: check/replace fuel and retest
+(conductivity). This error code may suggest that ionic water is present in the fuel.
+- Recommended action: check/replace fuel and retest
 
 Error code 171 Hz indicates the fuel composition is outside of the sensor measurement range. This error code may suggest that ionic water is present in the fuel.
 
